@@ -33,14 +33,16 @@ that classify EV users' type. Hence, with a data set, it includes:
 • Develop Predictive Models: Use supervised machine learning algorithms to classify 
 users into distinct classes, such as “Casual”, "Commuter" and "Long-Distance 
 Traveler." 
-• Optimize Model Performance: Perform parameter tuning and use cross-validation 
+• Optimize Model Performance: Perform parameter tuning and use cross-validation   
 techniques to increase the accuracy and reliability of the models' classifications. 
 • Evaluate Metrics: Evaluate model performance with different metrics such as accuracy, 
 precision, recall, and Area Under the Curve (AUC). 
 • Document Findings: Describe in detail the characteristics of the datasets, preprocessing, 
 modeling approaches, parameter tuning, and performance outcomes all supported by 
 visualizations. 
-![image](https://github.com/user-attachments/assets/776a4f4e-2169-42df-baa4-daee20a15d80)
 
+# MODEL COMPARISON:
+
+![image](https://github.com/user-attachments/assets/ccb35a13-d45e-45e7-a099-afdb33289c98)
 
 
